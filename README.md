@@ -19,7 +19,7 @@ The dashboard includes interactive charts, summary cards, and transaction manage
 
 ## 🛠️ Tech Stack
 
-- **React 18** – Component-based UI  
+- **React 19** – Component-based UI  
 - **TypeScript** – Type safety and scalability  
 - **Vite** – Lightning-fast build tool  
 - **Redux Toolkit** – State management  
