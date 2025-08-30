@@ -17,6 +17,17 @@ The dashboard includes interactive charts, summary cards, and transaction manage
 
 ---
 
+## 🛠️ Tech Stack
+
+- **React 18** – Component-based UI  
+- **TypeScript** – Type safety and scalability  
+- **Vite** – Lightning-fast build tool  
+- **Redux Toolkit** – State management  
+- **Recharts** – Data visualization  
+- **CSS Modules** – Modular, maintainable styling  
+
+ ---
+
 ## 🚀 Getting Started
 
 Clone the repository and install dependencies:
