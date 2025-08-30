@@ -24,7 +24,6 @@ The dashboard includes interactive charts, summary cards, and transaction manage
 - **Vite** – Lightning-fast build tool  
 - **Redux Toolkit** – State management  
 - **Recharts** – Data visualization  
-- **CSS Modules** – Modular, maintainable styling  
 
  ---
 
