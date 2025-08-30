@@ -1,0 +1,235 @@
+{
+  "transactions": [
+    {
+      "id": "mb300a1k4t9f7g",
+      "date": "2025-08-01",
+      "user": "Microsoft Corporation",
+      "email": "billing@microsoft.com",
+      "currentAmount": 15000,
+      "mustPaid": 15000,
+      "status": "paid",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-01", "amount": 15000 }]
+    },
+    {
+      "id": "mb300c7n2h3l8p",
+      "date": "2025-08-02",
+      "user": "Google LLC",
+      "email": "finance@google.com",
+      "currentAmount": 8000,
+      "mustPaid": 12000,
+      "status": "partial",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-02", "amount": 8000 }]
+    },
+    {
+      "id": "mb300e9q6r1d2b",
+      "date": "2025-08-03",
+      "user": "Tesla Inc.",
+      "email": "accounts@tesla.com",
+      "currentAmount": 0,
+      "mustPaid": 25000,
+      "status": "failed",
+      "method": "paypal",
+      "paymentData": [{ "date": null, "amount": 0 }]
+    },
+    {
+      "id": "mb300g4s7v9j1k",
+      "date": "2025-08-04",
+      "user": "Amazon Web Services",
+      "email": "aws-billing@amazon.com",
+      "currentAmount": 22000,
+      "mustPaid": 22000,
+      "status": "paid",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-04", "amount": 22000 }]
+    },
+    {
+      "id": "mb300j2m5y8t4l",
+      "date": "2025-08-05",
+      "user": "Netflix Inc.",
+      "email": "billing@netflix.com",
+      "currentAmount": 0,
+      "mustPaid": 9000,
+      "status": "failed",
+      "method": "paypal",
+      "paymentData": [{ "date": null, "amount": 0 }]
+    },
+    {
+      "id": "mb300l9r3f6p7s",
+      "date": "2025-08-06",
+      "user": "Apple Inc.",
+      "email": "payments@apple.com",
+      "currentAmount": 14000,
+      "mustPaid": 14000,
+      "status": "paid",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-06", "amount": 14000 }]
+    },
+    {
+      "id": "mb300n7u1k5d3b",
+      "date": "2025-08-07",
+      "user": "Spotify AB",
+      "email": "billing@spotify.com",
+      "currentAmount": 9500,
+      "mustPaid": 12000,
+      "status": "partial",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-07", "amount": 9500 }]
+    },
+    {
+      "id": "mb300r2x5z8k7d",
+      "date": "2025-08-09",
+      "user": "Intel Corporation",
+      "email": "billing@intel.com",
+      "currentAmount": 21000,
+      "mustPaid": 21000,
+      "status": "paid",
+      "method": "paypal",
+      "paymentData": [{ "date": "2025-08-09", "amount": 21000 }]
+    },
+    {
+      "id": "mb300t8y3j1s9q",
+      "date": "2025-08-10",
+      "user": "Samsung Electronics",
+      "email": "payments@samsung.com",
+      "currentAmount": 0,
+      "mustPaid": 18000,
+      "status": "failed",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": null, "amount": 0 }]
+    },
+    {
+      "id": "mb300w5a2e9t6l",
+      "date": "2025-08-11",
+      "user": "Oracle Corporation",
+      "email": "finance@oracle.com",
+      "currentAmount": 10000,
+      "mustPaid": 10000,
+      "status": "paid",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-11", "amount": 10000 }]
+    },
+    {
+      "id": "mb30123d9m6k4p",
+      "date": "2025-08-13",
+      "user": "Meta Platforms",
+      "email": "billing@meta.com",
+      "currentAmount": 22000,
+      "mustPaid": 22000,
+      "status": "paid",
+      "method": "paypal",
+      "paymentData": [{ "date": "2025-08-13", "amount": 22000 }]
+    },
+    {
+      "id": "mb30167h4s8m2j",
+      "date": "2025-08-15",
+      "user": "Siemens AG",
+      "email": "accounts@siemens.com",
+      "currentAmount": 7000,
+      "mustPaid": 9000,
+      "status": "partial",
+      "method": "paypal",
+      "paymentData": [{ "date": "2025-08-15", "amount": 7000 }]
+    },
+    {
+      "id": "mb30189k6d3t5l",
+      "date": "2025-08-16",
+      "user": "Uber Technologies",
+      "email": "billing@uber.com",
+      "currentAmount": 3000,
+      "mustPaid": 12000,
+      "status": "partial",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-16", "amount": 3000 }]
+    },
+    {
+      "id": "mb301b2m8g4k6q",
+      "date": "2025-08-17",
+      "user": "Airbnb Inc.",
+      "email": "finance@airbnb.com",
+      "currentAmount": 6000,
+      "mustPaid": 6000,
+      "status": "paid",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-17", "amount": 6000 }]
+    },
+    {
+      "id": "mb301f7r3m1t8j",
+      "date": "2025-08-19",
+      "user": "Sony Corporation",
+      "email": "finance@sony.com",
+      "currentAmount": 25000,
+      "mustPaid": 25000,
+      "status": "paid",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-19", "amount": 25000 }]
+    },
+    {
+      "id": "mb301h9t5q2r4d",
+      "date": "2025-08-20",
+      "user": "Shopify Inc.",
+      "email": "billing@shopify.com",
+      "currentAmount": 9000,
+      "mustPaid": 11000,
+      "status": "partial",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-20", "amount": 9000 }]
+    },
+    {
+      "id": "mb301m5x9k1t7p",
+      "date": "2025-08-22",
+      "user": "HP Inc.",
+      "email": "finance@hp.com",
+      "currentAmount": 10540,
+      "mustPaid": 11000,
+      "status": "partial",
+      "method": "credit_card",
+      "paymentData": [{ "date": "2025-08-23", "amount": 10540 }]
+    },
+    {
+      "id": "mb301p7z3n5d8k",
+      "date": "2025-08-23",
+      "user": "Cisco Systems",
+      "email": "payments@cisco.com",
+      "currentAmount": 13000,
+      "mustPaid": 16000,
+      "status": "partial",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-23", "amount": 13000 }]
+    },
+    {
+      "id": "mb301r9b5p2k6q",
+      "date": "2025-08-24",
+      "user": "Twitter (X Corp.)",
+      "email": "billing@x.com",
+      "currentAmount": 20000,
+      "mustPaid": 20000,
+      "status": "paid",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-24", "amount": 20000 }]
+    },
+    {
+      "id": "mb301u2d4n7p5x",
+      "date": "2025-08-25",
+      "user": "Adobe Inc.",
+      "email": "finance@adobe.com",
+      "currentAmount": 17000,
+      "mustPaid": 17000,
+      "status": "paid",
+      "method": "bank_transfer",
+      "paymentData": [{ "date": "2025-08-25", "amount": 17000 }]
+    },
+    {
+      "id": "mb301w5f8k3d9l",
+      "date": "2025-08-26",
+      "user": "NVIDIA Corporation",
+      "email": "billing@nvidia.com",
+      "currentAmount": 8000,
+      "mustPaid": 5000,
+      "status": "partial",
+      "method": "paypal",
+      "paymentData": [{ "date": "2025-08-26", "amount": 8000 }]
+    }
+  ]
+}

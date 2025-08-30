@@ -1,0 +1,56 @@
+#invoices {
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  border: 1px solid #ddd;
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 12px rgba(0, 0, 0, 0.08);
+  max-height: 640px;
+}
+
+.table-header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.table-header h2 {
+  margin: 0;
+}
+
+.table-buttons {
+  margin: 1.5em 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.search-bar,
+.btn-filter,
+.btn-payment,
+.btn-reset{
+  border-radius: 4px;
+  height: 2em;
+  border: 1px solid rgb(203, 201, 201);
+  font-weight: bold;
+  margin-top: 1em;
+  margin-right: 1em;
+}
+
+.search-bar::placeholder {
+  color: black;
+}
+
+.btn-filter, .btn-reset {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.3em;
+}
+
+.btn-payment {
+  background-color: rgb(255, 54, 27);
+  color: aliceblue;
+  width: 12em;
+  height: 2.3em;
+  cursor: pointer;
+}

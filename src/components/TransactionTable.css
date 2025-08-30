@@ -1,0 +1,68 @@
+.no-results {
+  text-align: center;
+}
+
+.container {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  max-height: 510px;
+  height: 70vh;
+}
+
+table {
+  border: none;
+  width: 100%;
+}
+
+
+td,
+th {
+  padding: 1em;
+}
+
+#attributes {
+  font-size: 1em;
+  color: rgb(72, 72, 72);
+  background-color: rgb(243, 243, 243);
+  position: sticky;
+  top: 0;
+  margin-bottom: 1em;
+}
+
+.status {
+  text-align: center;
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  border-radius: 12px;
+  background-color: #fff;
+  margin-left: 0.5em;
+  margin-top: 1.2em;
+  border: 1px solid rgb(181, 181, 181);
+  color: rgb(80, 77, 77);
+}
+
+.failed {
+  text-align: center;
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  border: 1px solid red;
+  border-radius: 12px;
+  color: red;
+  font-weight: bold;
+  background-color: #fff;
+  margin-left: 0.5em;
+  margin-top: 1.2em;
+}
+
+.paid {
+  text-align: center;
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  border: 1px solid rgba(103, 221, 0, 0.911);
+  border-radius: 12px;
+  color: rgb(103, 221, 0, 0.911);
+  font-weight: bold;
+  background-color: #fff;
+  margin-left: 0.5em;
+  margin-top: 1.2em;
+}
